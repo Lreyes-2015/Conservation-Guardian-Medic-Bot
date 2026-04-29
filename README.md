@@ -4,9 +4,9 @@ This project is a C++ brain/demo for a peaceful conservation guardian, medic, fi
 
 ## Open In Visual Studio
 
-1. Open Visual Studio.
-2. Choose `File > Open > Folder`.
-3. Open this folder: `C:\Users\New User\OneDrive\Documents\New project`.
+1. Download Cpp files.
+2. Open Visual Studio.
+3. Choose `File > Open > Folder`.
 4. Let CMake configure.
 5. Run `conservation_guardian_demo` for the demo output.
 6. Run `conservation_guardian_tests` to check behavior tests.
